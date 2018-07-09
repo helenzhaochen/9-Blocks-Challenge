@@ -1,0 +1,1 @@
+This folder contains the 9-blocks-challenge.
